@@ -24,11 +24,13 @@
         <mark key="]" line="6" column="15" />
         <mark key="." line="6" column="15" />
       </file>
+      <file name="C:/MinGW/lib/gcc/mingw32/5.3.0/include/c++/ostream" timestamp="1512362228699" />
       <file name="D:/Cpp/demo/src/Dynamic/Company.h" timestamp="1504072604608">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="C:/MinGW/lib/gcc/mingw32/5.3.0/include/c++/iosfwd" timestamp="1512362168395" />
       <file name="D:/Cpp/demo/src/Dynamic/Programmer.h" timestamp="1504073428560">
         <mark key="[" line="12" column="16" />
         <mark key="]" line="12" column="16" />
@@ -39,9 +41,6 @@
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
-      </file>
-      <file name="D:/work-oschina/cpp-demo/main.cpp" timestamp="1512122813462">
-        <mark key="[" line="19" column="0" />
       </file>
       <file name="D:/Cpp/demo/src/Dynamic/Programmer.cpp" timestamp="1504073046107">
         <mark key="[" line="12" column="0" />
@@ -75,6 +74,7 @@
       <file name="D:/Cpp/PHP-CPP/CMakeLists.txt" timestamp="1503991174195">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/MinGW/lib/gcc/mingw32/5.3.0/include/c++/iostream" timestamp="1512362152524" />
       <file name="$USER_HOME$/Project/cpp-demo/exam/clionCpp/charConvert.cpp" timestamp="1510148082068">
         <mark key="[" line="17" column="8" />
         <mark key="]" line="17" column="38" />
