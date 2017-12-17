@@ -36,6 +36,11 @@
         <mark key="." line="1848" column="0" />
         <mark key="^" line="1848" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/cpp-demo/houjie/main.cpp" timestamp="1513509586852">
+        <mark key="[" line="8" column="12" />
+        <mark key="]" line="8" column="12" />
+        <mark key="." line="8" column="12" />
+      </file>
       <file name="D:/Cpp/demo/src/Dynamic/Company.h" timestamp="1504072604608">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -73,8 +78,10 @@
       <file name="/Dummy.txt" timestamp="1513483726988">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/cpp-demo/houjie/Complex.h" timestamp="1513484659609">
-        <mark key="[" line="11" column="0" />
+      <file name="$USER_HOME$/Project/cpp-demo/houjie/Complex.h" timestamp="1513509723153">
+        <mark key="[" line="18" column="35" />
+        <mark key="]" line="18" column="43" />
+        <mark key="." line="18" column="43" />
       </file>
       <file name="D:/Cpp/PHP-CPP/include/array.h" timestamp="1499675006972">
         <mark key="[" line="18" column="20" />
@@ -132,10 +139,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IC9ob3VqaWUvbWFpbi5jcHAg</text>
+        <text>double</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC9ob3VqaWUvbWFpbi5jcHAg</text>
+        <text>double</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRcPg==</text>
