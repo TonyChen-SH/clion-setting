@@ -36,7 +36,7 @@
         <mark key="." line="1848" column="0" />
         <mark key="^" line="1848" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/cpp-demo/houjie/main.cpp" timestamp="1513509586852">
+      <file name="$USER_HOME$/Project/cpp-demo/houjie/main.cpp" timestamp="1513516756587">
         <mark key="[" line="8" column="12" />
         <mark key="]" line="8" column="12" />
         <mark key="." line="8" column="12" />
@@ -54,7 +54,7 @@
         <mark key="]" line="12" column="16" />
         <mark key="." line="12" column="16" />
       </file>
-      <file name="/LLDB" timestamp="1512189170822">
+      <file name="/LLDB" timestamp="1513516800096">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/cpp-demo/main.cpp" timestamp="1512287525067">
@@ -110,6 +110,11 @@
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/cpp-demo/houjie/Complex.cpp" timestamp="1513516859917">
+        <mark key="[" line="9" column="11" />
+        <mark key="]" line="9" column="11" />
+        <mark key="." line="9" column="11" />
+      </file>
       <file name="/fragment.mm" timestamp="1513483726918">
         <mark key="[" line="0" column="0" />
       </file>
@@ -139,10 +144,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>double</text>
+        <text encoding="base64">PCNpbml0aWFsaXplciM+</text>
       </register>
       <register name="-" type="4">
-        <text>double</text>
+        <text encoding="base64">PCNpbml0aWFsaXplciM+</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRcPg==</text>
