@@ -33,6 +33,15 @@
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="alt m" />
   </action>
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="shift ctrl l" />
+  </action>
   <action id="ForceRunToCursor">
     <keyboard-shortcut first-keystroke="alt f9" />
   </action>
