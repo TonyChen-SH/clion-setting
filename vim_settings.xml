@@ -9,6 +9,11 @@
       <file name="vim_settings.xml" timestamp="1512880606903">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/work-oschina/cpp-demo/DataStructure/DoubleLinkList.cpp" timestamp="1527149694333">
+        <mark key="[" line="42" column="1" />
+        <mark key="]" line="42" column="1" />
+        <mark key="." line="42" column="1" />
+      </file>
       <file name="D:/work-oschina/cpp-demo/DataStructure/BST.cpp" timestamp="1526450919766">
         <mark key="[" line="32" column="1" />
         <mark key="]" line="32" column="1" />
@@ -30,8 +35,8 @@
       <file name="D:/work-oschina/mysql-server-5.7/sql/sql_lex.cc" timestamp="1527071599946">
         <mark key="[" line="178" column="29" />
       </file>
-      <file name="D:/work-oschina/cpp-demo/DataStructure/DoubleLinkList.h" timestamp="1527144204128">
-        <mark key="[" line="19" column="0" />
+      <file name="D:/work-oschina/cpp-demo/DataStructure/DoubleLinkList.h" timestamp="1527149639182">
+        <mark key="[" line="44" column="0" />
       </file>
       <file name="D:/work-oschina/cpp-demo/DataStructure/LinkList.cpp" timestamp="1527135664201">
         <mark key="[" line="85" column="11" />
@@ -116,7 +121,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text encoding="base64">CkRvdWJsZUxpbmtMaXN0Ojp+RG91YmxlTGlua05vZGUoKQp7Cgp9</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -128,37 +133,34 @@
         <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCB2ZWNbal0gPDwgIiAiOwo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICByZXR1cm4gMDs=</text>
+        <text encoding="base64">CkRvdWJsZUxpbmtMaXN0Ojp+RG91YmxlTGlua05vZGUoKQp7Cgp9</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICBmb3IgKHBOb2RlID0gaGVhZDsgcE5vZGUgIT0gbnVsbHB0ciAmJiBwTm9kZS0+ZGF0YSAhPSBlbGVtOyBwTm9kZS0+bmV4dCkKICAgIHsKCiAgICB9</text>
+        <text encoding="base64">CiAgICByZXR1cm4gMDs=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiNpbmNsdWRlIDxycGNuZHIuaD4=</text>
+      <register name="3" type="2">
+        <text encoding="base64">RG91YmxlTGlua05vZGU6OkRvdWJsZUxpbmtOb2RlKCkge30K</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgIExpbmtMaXN0Tm9kZTo6TGlua0xpc3ROb2RlKGludCBpLCBMaW5rTGlzdE5vZGUqIHBOb2RlKQogICAgewoKICAgIH0=</text>
+        <text encoding="base64">CiAgICByZXR1cm4gMDs=</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">ICBmb3IgKHBOb2RlID0gaGVhZDsgcE5vZGUgIT0gbnVsbHB0ciAmJiBwTm9kZS0+ZGF0YSAhPSBlbGVtOyBwTm9kZS0+bmV4dCkKICAgIHsKCiAgICB9</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CiNpbmNsdWRlIDxycGNuZHIuaD4=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIExpbmtMaXN0Tm9kZTo6TGlua0xpc3ROb2RlKGludCBpLCBMaW5rTGlzdE5vZGUqIHBOb2RlKQogICAgewoKICAgIH0=</text>
+      </register>
+      <register name="8" type="4">
         <text>void ClearList();
     bool ListEmpty();
     int ListLenth();
     bool GetElem(int i, LinkListNode* pNode);</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IAogICAgCiAgICBpbnQgZGF0YTsKICAgIE5vZGUqIG5leHQ7</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IHQuaW5zZXJ0KDUpOwogICAgdC5pbnNlcnQoNSk7CiAgICB0Lmluc2VydCg1KTs=</text>
-      </register>
-      <register name="8" type="4">
-        <text>class Node
-{
-
-};</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">Cl4KWmVuZC96ZW5kX3ZtX2V4ZWN1dGUuaDoyNDY5MjoyOiB3YXJuaW5nOiB1bnVzZWQgdmFyaWFibGUgJ29wbGluZScgWy1XdW51c2VkLXZhcmlhYmxlXQpVU0VfT1BMSU5FCl4KWmVuZC96ZW5kX3ZtX2V4ZWN1dGUuaDozOTM6MzY6IG5vdGU6IGV4cGFuZGVkIGZyb20gbWFjcm8gJ1VTRV9PUExJTkUnCiMgZGVmaW5lIFVTRV9PUExJTkUgY29uc3QgemVuZF9vcCAqb3BsaW5lID0gRVgob3BsaW5lKTsKXg==</text>
+        <text encoding="base64">IAogICAgCiAgICBpbnQgZGF0YTsKICAgIE5vZGUqIG5leHQ7</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
