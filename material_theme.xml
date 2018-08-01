@@ -1,8 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.6.1" />
+    <option name="version" value="2.7.0" />
     <option name="highlightColor" value="80cbc4" />
+    <option name="isContrastMode" value="true" />
     <option name="accentColor" value="80cbc4" />
     <option name="userId" value="69ee08a3:164d8b58110:-7fff" />
+    <option name="allowDataCollection" value="true" />
   </component>
 </application>
