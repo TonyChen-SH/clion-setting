@@ -36,7 +36,7 @@
       <file name="$USER_HOME$/Project/cpp-demo/exam/clionCpp/.gitignore" timestamp="1510144647713">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="C:/work-oschina/cpp-demo/DataStructure/SortInsertSort.h" timestamp="1535248863292">
+      <file name="C:/work-oschina/cpp-demo/DataStructure/SortInsertSort.h" timestamp="1535249042382">
         <mark key="[" line="1" column="31" />
       </file>
       <file name="D:/work-oschina/cpp-demo/exam/clionCpp/CMakeLists.txt" timestamp="1507691632908">
@@ -50,6 +50,12 @@
       </file>
       <file name="D:/work-oschina/cpp-demo/DataStructure/BinaryTree.h" timestamp="1527132655359">
         <mark key="[" line="12" column="8" />
+      </file>
+      <file name="C:/work-oschina/cpp-demo/DataStructure/SortType.h" timestamp="1535249109112">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="17" />
+        <mark key="." line="4" column="17" />
+        <mark key="^" line="4" column="17" />
       </file>
       <file name="C:/work-oschina/cpp-demo/DataStructure/main.cpp" timestamp="1535192922113" />
       <file name="vim_settings.xml" timestamp="1512880606903">
@@ -102,10 +108,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CkRvdWJsZUxpbmtMaXN0Ojp+RG91YmxlTGlua05vZGUoKQp7Cgp9</text>
+        <text>DEMO_SORTT</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>DEMO_SORTT</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRcPg==</text>
