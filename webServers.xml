@@ -1,0 +1,11 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="959d18fd-a714-4a32-b7d8-d92953e0b7a0" name="ssh://root@47.105.129.70:22 (959d18fd-a714-4a32-b7d8-d92953e0b7a0)" url="http:///">
+        <fileTransfer host="47.105.129.70" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

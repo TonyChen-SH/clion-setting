@@ -1,6 +1,7 @@
 <application>
   <component name="CPPToolchains" version="4">
     <toolchains detectedVersion="5">
+      <toolchain name="aliyun-512MB" toolSetKind="REMOTE" customCMakePath="\usr\bin\cmake" hostId="959d18fd-a714-4a32-b7d8-d92953e0b7a0" debuggerKind="CUSTOM_GDB" customGDBPath="\usr\bin\gdb" />
       <toolchain name="MinGW" toolSetKind="MINGW" toolSetPath="C:\MinGW" debuggerKind="BUNDLED_GDB" />
     </toolchains>
   </component>
