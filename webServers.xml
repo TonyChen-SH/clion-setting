@@ -1,9 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="959d18fd-a714-4a32-b7d8-d92953e0b7a0" name="ssh://root@47.105.129.70:22 (959d18fd-a714-4a32-b7d8-d92953e0b7a0)" url="http:///">
+      <webServer id="a43ff029-46f6-4371-bf99-f475379c2e95" name="ssh://root@47.105.129.70:22 (a43ff029-46f6-4371-bf99-f475379c2e95)" url="http:///">
         <fileTransfer host="47.105.129.70" port="22" accessType="SFTP">
           <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="e747f814-64cf-46b3-a289-bcc02f37a0ff" name="ssh://chendan@127.0.0.1:2222 (e747f814-64cf-46b3-a289-bcc02f37a0ff)" url="http:///">
+        <fileTransfer host="127.0.0.1" port="2222" accessType="SFTP">
+          <option name="port" value="2222" />
         </fileTransfer>
       </webServer>
     </option>
