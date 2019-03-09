@@ -1,7 +1,8 @@
 <application>
   <component name="CPPToolchains" version="4">
     <toolchains detectedVersion="5">
-      <toolchain name="aliyun-512MB" toolSetKind="REMOTE" customCMakePath="\usr\bin\cmake" customMakePath="/usr/bin/make" customCCompilerPath="/usr/bin/gcc" customCXXCompilerPath="/usr/bin/g++" hostId="959d18fd-a714-4a32-b7d8-d92953e0b7a0" debuggerKind="CUSTOM_GDB" customGDBPath="\usr\bin\gdb" />
+      <toolchain name="WSL" toolSetKind="WSL" toolSetPath="C:\Users\jooj\AppData\Local\Microsoft\WindowsApps\ubuntu1804.exe" customCMakePath="\usr\bin\cmake" customMakePath="/usr/bin/make" customCCompilerPath="/usr/bin/cc" customCXXCompilerPath="/usr/bin/g++-7" hostId="e747f814-64cf-46b3-a289-bcc02f37a0ff" debuggerKind="CUSTOM_GDB" customGDBPath="\usr\bin\gdb" />
+      <toolchain name="aliyun-512MB" toolSetKind="REMOTE" customCMakePath="\usr\bin\cmake" customMakePath="/usr/bin/make" customCCompilerPath="/usr/bin/gcc" customCXXCompilerPath="/usr/bin/g++" hostId="a43ff029-46f6-4371-bf99-f475379c2e95" debuggerKind="CUSTOM_GDB" customGDBPath="\usr\bin\gdb" />
       <toolchain name="MinGW" toolSetKind="MINGW" toolSetPath="C:\MinGW" debuggerKind="BUNDLED_GDB" />
     </toolchains>
   </component>
