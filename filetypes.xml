@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="gitignore_global.txt" type="Git file" />
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping ext="php" type="PLAIN_TEXT" />
       <mapping ext="makfile" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
