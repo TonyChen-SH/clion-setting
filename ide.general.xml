@@ -4,5 +4,6 @@
     <entry key="ide.tree.ui.experimental" value="false" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
     <entry key="debugger.watches.in.variables" value="false" />
+    <entry key="cidr.max.intellisense.file.length" value="5000000" />
   </component>
 </application>
