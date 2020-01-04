@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="汇编" />
+      <item value="冒泡" />
       <item value="提高" />
+      <item value="汇编" />
       <item value="further" />
     </histories>
     <option name="languageScores">
